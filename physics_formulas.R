@@ -175,6 +175,23 @@ pythagorean_theorem = function(h0, h_a){ h0^2 + h_a^2}
 
 
 
+# 65 mph => m/s
+mph = 65
+meter_ft = 3.281
+mile_ft #5280
+hr_seconds = 3600
+
+speed_ft_sec = function(mph){
+  speed_ft_sec = (mph * mile_ft /hr_seconds)
+  glue::glue("{speed_ft_sec} ft per second")
+}
+speed_ft_sec(65)
+
+speed_m_sec = function(ft_sec){
+  speed_m_sec = ft_sec / meter_ft
+  glue::glue("{speed_m_sec} meters per second")
+}
+speed_m_sec(ft_sec = 95.3)
 
 
 
