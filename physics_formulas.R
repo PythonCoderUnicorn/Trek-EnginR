@@ -81,7 +81,7 @@ length_mi_km = function(mi){
 length_mi_km(4)
 
 ft_m = 0.3048 # m
-mile = 5280 # ft
+mile_ft = 5280 # ft
 mile_km = 1.609 # km
 angstrom = 10e-10 #m
 
