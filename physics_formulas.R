@@ -15,13 +15,19 @@ library(tidyverse)
 
 Avogadro_number = 6.02214179 * 10e23 # mole^-1   symbol: N_A
 Boltzmann_constant = 1.3806504 * 10e-23 #J/K   symbol: k
+Rydberg_constant_R = 1.097 * 10e7 # m−1
 electron_charge_magnitude = 1.602176487 * 10e-19 # Celsius   symbol: e
 permittivity_free_space = 8.854187817 * 10e-12 # C^2 / (N * m^2)  
 Planck_constant = 6.62606896 * 10e-34 # J * s  the  h symbol
 mass_electron = 9.10938215 * 10e-31 # kg
 mass_neutron = 1.674927211 * 10e-27 # kg
 mass_proton = 1.672621637 * 10e-27 # kg
+mass_hydrogen_electron =  1.67353322 * 10e-27 # kg
+mass_helium_2electrons = 6.6466032 * 10e-27 # kg
+
 speed_of_light_vaccuum = 2.99792458 * 10e8 # m/s  symbol: c
+light_speed_kms = 299792 # km/s
+
 universal_grav_constant = 6.674 * 10e-11 # N * n^2 /kg^2  symbol: G
 universal_gas_constant = 8.314472 # J/(mol * K)  symbol: R
 
