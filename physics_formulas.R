@@ -103,8 +103,8 @@ earth_day_min = 1.44 * 10e3 # min
 earth_day_seconds = 8.64 * 10e4 # seconds
 
 # -- speed
-mile.H_km.H = 1.609 # km/h
-mile.H_mSec = 0.4470 # m/s
+mph_kmH = 1.609 # km/h
+mph_mSec = 0.4470 # m/s
 
 # -- force
 Lb_N = 4.448 # N
