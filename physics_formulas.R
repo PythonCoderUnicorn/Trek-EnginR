@@ -200,7 +200,12 @@ speed_m_sec = function(ft_sec){
 speed_m_sec(ft_sec = 95.3)
 
 
-
+# parsecs to light years
+parsec_light_year = function(parsec){ 
+  ly = parsec * 3.26/1
+  glue::glue("{ly} light years")
+}   
+parsec_light_year(1.29)
 
 
 
