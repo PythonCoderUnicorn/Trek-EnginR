@@ -1,5 +1,8 @@
 ################################
 # *** STAR TREK FUNCTIONS ***
+
+# by: Zane Dax (She/They)
+# date: Nov 9, 2021
 ################################
 
 library(tidyverse)
