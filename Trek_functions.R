@@ -102,4 +102,22 @@ Newtons_to_Lbs(9.84e02)
 
 
 
+# find the diameter
+diameter = function(r){
+  d = 2*r
+  glue::glue("diameter is {d}")
+}
+diameter(6378)
+
+# find the radius from diameter
+diameter_to_radius = function(d){
+  r = d/2
+  glue::glue("radius is {r}")
+}
+diameter_to_radius(142984)
+
+
+
+
+
 
