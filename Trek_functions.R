@@ -70,6 +70,7 @@ R_meters = Uranus_distance_Sun_km *1000
 
 gravity_force = function(m1,m2,R){
   # F_g = G*(m1 * m2)/R^2
+  gravity_constant = 6.67e-11 #N m^2/kg^2
   force = (gravity_constant) * ((m1 * m2)/ R^2)
   glue::glue("{formatC(force,format='e', digits=2 )} N")
 }
