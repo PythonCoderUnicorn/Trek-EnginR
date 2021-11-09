@@ -3,12 +3,15 @@
 collection of Star Trek terms to form the ``functions``
 
 
-```
-R-F energy flow 
-Powerflow 
+## Science Analysis
+- descript_stats  # Science probes 
+- data_analysis   # Cross tab analysis
 
-Science probes 
-Cross tab analysis
+## Energy 
+- RF_energy_flow 
+- Powerflow 
+- 
+```
 Metachromic similarities 
 
 Defective isolinear rods
@@ -33,7 +36,7 @@ Decoding the encryptions
 ```
 
 ```
-Maintain silent running status
+silent running status
 Transporter sensors 
 open hailing frequency 
 Antiflow converter
