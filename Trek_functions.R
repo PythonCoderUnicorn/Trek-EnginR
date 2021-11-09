@@ -79,7 +79,22 @@ gravity_force(m1= Sun_mass_kg, m2= Uranus_mass_kg, R= R_meters)
 
 
 
+# Find the force of gravity of the Earth on a person with a mass of
+# 100 kg standing on the Earth’s surface
+m2_kg = 100 
+Earth_mass_kg = 6e24
+Earth_radius_km = 6378
+Earth_radius_m = Earth_radius_km*1000
 
+
+gravity_force(m1= Earth_mass_kg, m2= m2_kg, R= Earth_radius_m )
+
+# the force of Earth’s gravity in pounds on a 100-kg person
+Newtons_to_Lbs = function(N){
+  fg = N * (1/ 4.45)
+  glue::glue("Earth's gravity is {round(fg, 1)} Lbs of force")
+}
+Newtons_to_Lbs(9.84e02)
 
 
 
