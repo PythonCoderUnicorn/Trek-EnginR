@@ -6,30 +6,30 @@ collection of Star Trek terms to form the ``functions``
 ```
 R-F energy flow 
 Powerflow 
-Organic residue
-Decoding the encryptions
-Limited database
+
+Science probes 
 Cross tab analysis
 Metachromic similarities 
-Open the conduit
-Phasers on max stun
-Science probes 
+
 Defective isolinear rods
 Subimpulse thruster configurations
-runabout
+
 Phase coil inverters
-Primary sensor array has been sabotaged
-Sub-net shorted out
-Muon charge @ full power
+
+Muon charge
 Muon frequencies 
 Muon flux initiated 
-Radiation pulse = lethal!
-Blocking subspace communication with broadband inversion [impacts short range sensors]
+
+
 Subspace transceiver model 
 Station log after stardate 47569.4 are restricted
 Access restricted to level-1 security clearance 
 Please enter security verification
 Polar magnetic field
+
+
+Organic residue
+Decoding the encryptions
 ```
 
 ```
