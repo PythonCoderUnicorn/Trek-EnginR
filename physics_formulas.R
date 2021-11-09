@@ -209,3 +209,33 @@ parsec_light_year(1.29)
 
 
 
+
+# ============= NEWTON'S LAWS OF MOTION
+
+motion_law.1
+# “the law of inertia” because the word
+# “inertia” means resistance to acceleration
+
+# unbalanced force (F) acts upon an object of mass (m), 
+# the object will experience an acceleration (a)
+motion_law.2 = function(m2, R){ 
+  # a = F/m
+  # F = mass*a 
+  a = gravity_constant * (m2/ R^2)
+  glue::glue("the acceleration is {formatC(a,format='e', digits=2 )} m/s^2")
+}
+
+#  values for the Earth’s mass and radius
+motion_law.2(m2= 5.97e24, R= Earth_radius_m)
+
+# gravitational acceleration of Mars
+Mars_radius_m = 3390*1000
+Mars_mass_kg = 6.4e23
+
+motion_law.2(m2= Mars_mass_kg, R= Mars_radius_m)
+
+
+# “equal and opposite forces,”
+# ** remember that these two forces act on two different objects.
+motion_law.3
+
