@@ -53,6 +53,7 @@ collection of Star Trek terms to form the ``functions``
 - sec_grid        # Security tracking grid
 
 ## Chemistry
+- Dolamide - used in power generators, reactors and short range transports, weapons (if pure)
 - 
 
 
@@ -73,7 +74,7 @@ Computer analyze subprogram “x”, → requested subprogram is a series of bi-
 
 ```
 
-Dolamide - used in power generators, reactors and short range transports, weapons (if pure)
+
 
 Something is interfering with the rematerialization (transporter) process. Boost the annular containment field 
 All inner deflector shield subsystems show equal intensity 
