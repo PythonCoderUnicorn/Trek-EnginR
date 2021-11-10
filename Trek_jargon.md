@@ -15,6 +15,7 @@ collection of Star Trek terms to form the ``functions``
 - subspace_emit        # Subspace emitter aligned, outgoing data stream activated
 - 
 
+
 ## Energy 
 - energy_flux     # energy flux
 - RF_energy_flow 
@@ -31,6 +32,11 @@ collection of Star Trek terms to form the ``functions``
 - EPS_wave         # Increase flow to the EPS wave guides
 - thoron_emission  # Elevated thoron emissions in the plasma field → imagination character become alive 
 - ann_cont_field   # rematerialization (transporter) process. Boost the annular containment field 
+- omicron_field    # Holographic projector - creates omicron particle field then manipulates the field to form objects
+- impulse_drive    # Impulse drive system
+- antipro_scan     # Anti-proton scan
+
+
 
 ## Mechanical 
 - silence            # silent running status
@@ -44,6 +50,10 @@ collection of Star Trek terms to form the ``functions``
 - pwr_wave           # Power waveguide failure
 - backup_sys         # Backup systems - the waste reclamation system
 - function_fail      # Unable to complete requested function. Please abort and retry
+- device_isolinear   # Subspace device integrated into the isolinear coprocessor
+- level_dx_3         # Level 3 diagnostic 
+
+
 
 ## Navigational
 - nav_comp        # Navigational computer 
@@ -75,17 +85,6 @@ Computer analyze subprogram “x”, → requested subprogram is a series of bi-
 
 ```
 
-
-Identify commands within file. → commands are sequential overrides of security fields runabout Pad A
-Computer run a level 3 sensor sweep of the Promenade
-Subspace device integrated into the isolinear coprocessor
-All weapon detectors are functional
-Holographic projector - creates omicron particle field then manipulates the field to form objects
-Stability loss = Subspace interphase pocket
-Implosive protomatter device (bomb)
-Impulse drive system
-Level 3 diagnostic 
-Anti-proton scan
 Inertial dampeners failing
 Bypass the primary command pathway and cross connect the backup with the ODN
 Reroute the APT relay through the secondary buffer to get an indep terminal working [try to wipe Cardassian security]
