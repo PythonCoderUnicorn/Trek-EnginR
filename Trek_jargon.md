@@ -35,6 +35,7 @@ collection of Star Trek terms to form the ``functions``
 - omicron_field    # Holographic projector - creates omicron particle field then manipulates the field to form objects
 - impulse_drive    # Impulse drive system
 - antipro_scan     # Anti-proton scan
+- tetryon_plasma   # Warp plasma conduit, tetryon particle exposure 
 
 
 
@@ -79,34 +80,14 @@ https://eepower.com/resistor-guide/resistor-applications/shunt-resistor/
 
 Computer analyze subprogram “x”, → requested subprogram is a series of bi-directional data transfer & monitoring commands
 
-```
-
-
-
-```
-
-Inertial dampeners failing
 Bypass the primary command pathway and cross connect the backup with the ODN
-Reroute the APT relay through the secondary buffer to get an indep terminal working [try to wipe Cardassian security]
-[disconnect computer sensors] switch the sensor input from primary scanners to the backup scanners
-[self destruct sequence] countdown complete computer will order main fusion reactor to disengage the reaction stabilizers, causing it to overload destroying the station
-Possible to disengage the laser fusion initiator but to do that need to be in reactor room or from control junctions on level 34
-Cardassian neutralization emitters (lethal containment fields) 
-Station’s personnel files - voice print, retinal scan, psychiatric profile
-Trace data source 
-Power fluctuation in the communications systems, problem in the transceiver assembly
-Warp plasma conduit, tetryon particle exposure 
-Interphasic compensator
 ```
+
 
 ## Engineering terms
 
 ```
-Power failure in security
-Power drain in the conduit above security office
-Shutting off the primary flow to entire core section
-R-F energy bursts
-Releasing conduit seal
+
 Repair work on the field modulators
 Force Field : reverse polarity on the energy fields
 [prevent Cardassian sensors from picking up runabout] = modulate engine’s power emissions, reconfig deflector shield grid, install shield buffers around the subspace emitter coil
