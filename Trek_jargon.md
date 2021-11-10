@@ -55,11 +55,14 @@ collection of Star Trek terms to form the ``functions``
 - level_dx_3         # Level 3 diagnostic 
 - field_mods         # Repair work on the field modulators
 - crystalization     # Crystallization from plasma discharges
+- actuators          # Reset the actuators on the chambers coil
+
 
 
 
 ## Navigational
 - nav_comp        # Navigational computer 
+- carrier_wave    # high-carrier frequency
 
 ## Security
 - pwr_grid_loc    # Access the power grid to Security checkpoint 4 on the promenade 
@@ -90,10 +93,6 @@ Bypass the primary command pathway and cross connect the backup with the ODN
 
 ```
 
-Computer, activate remote transporter sequence
-Programming the system to overload every 30 seconds
-Reset the actuators on the chambers coil
-(weak signal) switch to a high-carrier frequency
 Computer open new file. O’Brien personal log stardate 47581.2
 Coffee, Jamaican blend, double strong, double sweet
 Scan for warp signatures, identify, → “identification confirmed: Starfleet runabout Mekong”
