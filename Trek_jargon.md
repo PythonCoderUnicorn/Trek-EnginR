@@ -10,6 +10,10 @@ collection of Star Trek terms to form the ``functions``
 - error_DB_unavail     # Database unavailable
 - cross_link           # Crossover link. {url, https}
 - distrib_amp          # Distribution amplifier is @ 100% efficiency
+- adaptive_link        # Set up an adaptive interface link, see if you can download any info from it {an API}
+- nodes_memory         # memory nodes located, proceeding with data transfer {igraph nodes}
+- subspace_emit        # Subspace emitter aligned, outgoing data stream activated
+- 
 
 ## Energy 
 - energy_flux     # energy flux
@@ -25,6 +29,7 @@ collection of Star Trek terms to form the ``functions``
 - pwr_spectrum     # Broad spectrum power drain, power transfer is inoperative
 - grav_flux        # graviton flux around the transfer system
 - EPS_wave         # Increase flow to the EPS wave guides
+- thoron_emission  # Elevated thoron emissions in the plasma field → imagination character become alive 
 
 ## Mechanical 
 - silence            # silent running status
@@ -37,6 +42,7 @@ collection of Star Trek terms to form the ``functions``
 - pwr_aux            # Transfer auxiliary power 
 - pwr_wave           # Power waveguide failure
 - backup_sys         # Backup systems - the waste reclamation system
+- function_fail      # Unable to complete requested function. Please abort and retry
 
 ## Navigational
 - nav_comp        # Navigational computer 
@@ -46,25 +52,11 @@ collection of Star Trek terms to form the ``functions``
 - sec_seal_ovr    # Override security seals 
 - sec_grid        # Security tracking grid
 
+## Chemistry
+- 
 
 
 ```
-Defective isolinear rods
-Subimpulse thruster configurations
-Phase coil inverters
-Subspace transceiver model 
-Transporter sensors 
-open hailing frequency 
-Authorization access code 4-1-2-1  Dr Bashir
-
-```
-
-```
-Assay Office Security: auth code, verify retinal print, L-90 filter
-Assay Office: individual force fields, locks open only with valid authorization code combined with a verified retinal print {Cardassian MK-12 scanner}, with L-90 enhanced resolution filter
-
-
-
 
 Crossover shunt
 
@@ -73,31 +65,16 @@ device to measure electric current is called an ammeter. Most modern ammeters me
 
 https://eepower.com/resistor-guide/resistor-applications/shunt-resistor/
 
-
-
-Electromagnetic pulse to disrupt neural energy beam patterns, pulse resonate off shields, creating a reflected EM field 
-Manifest padd
-```
-
-
-```
-Shipping codes
-Elevated thoron emissions in the plasma field → imagination character become alive 
-Consult Cardassian operational guidelines paragraph 254-A
-Set up an adaptive interface link, see if you can download any info from it
-Initiating high resolution scan, memory nodes located, proceeding with data transfer
-Reconfig the whole emulator module to make it compatible w/ probe
-Cardassian turbolifts run exposed multi-phased alternating currents thru their positioning mechanisms
-Subspace emitter aligned, outgoing data stream activated
-Unable to complete requested function. Please abort and retry
-Plasma explosion in corridor H-12-A guest quarters
-```
-
-
-```
 Computer analyze subprogram “x”, → requested subprogram is a series of bi-directional data transfer & monitoring commands
+
+```
+
+
+
+```
+
 Dolamide - used in power generators, reactors and short range transports, weapons (if pure)
-Elevated levels of neutrinos 
+
 Something is interfering with the rematerialization (transporter) process. Boost the annular containment field 
 All inner deflector shield subsystems show equal intensity 
 Power balance showing equality 
