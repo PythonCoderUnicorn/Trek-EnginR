@@ -39,7 +39,7 @@ collection of Star Trek terms to form the ``functions``
 
 
 
-## Mechanical 
+## Mechanical / Engineering
 - silence            # silent running status
 - antiflow_cvtr      # Antiflow converter
 - struct_integ       # Structural integrity is failing 
@@ -53,6 +53,8 @@ collection of Star Trek terms to form the ``functions``
 - function_fail      # Unable to complete requested function. Please abort and retry
 - device_isolinear   # Subspace device integrated into the isolinear coprocessor
 - level_dx_3         # Level 3 diagnostic 
+- field_mods         # Repair work on the field modulators
+- crystalization     # Crystallization from plasma discharges
 
 
 
@@ -88,13 +90,6 @@ Bypass the primary command pathway and cross connect the backup with the ODN
 
 ```
 
-Repair work on the field modulators
-Force Field : reverse polarity on the energy fields
-[prevent Cardassian sensors from picking up runabout] = modulate engine’s power emissions, reconfig deflector shield grid, install shield buffers around the subspace emitter coil
-[in runabout] Initializing launch sequence. 
-Field buffer must be distorting our power signature 
-Sealed all airlocks on levels 21,22,23
-Crystallization from plasma discharges
 Computer, activate remote transporter sequence
 Programming the system to overload every 30 seconds
 Reset the actuators on the chambers coil
