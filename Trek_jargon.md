@@ -4,84 +4,77 @@ collection of Star Trek terms to form the ``functions``
 
 
 ## Science Analysis
-- descript_stats  # Science probes 
-- data_analysis   # Cross tab analysis
+- descript_stats       # Science probes 
+- data_analysis        # Cross tab analysis
+- pairwise_similariy   # Metachromic similarities 
+- error_DB_unavail     # Database unavailable
+- cross_link           # Crossover link. {url, https}
+- distrib_amp          # Distribution amplifier is @ 100% efficiency
 
 ## Energy 
+- energy_flux     # energy flux
 - RF_energy_flow 
 - Powerflow 
-- 
-```
-Metachromic similarities 
+- Muon_charge
+- Muon_freq        # Muon frequencies 
+- Muon_flux_init   # Muon flux initiated 
+- polar_field      # Polar magnetic field
+- rev_polarity     # Reversed the polarity of our shields
+- neutrinos        # Elevated neutrino readings
+- phased_pwr       # phased power fluctuations
+- pwr_spectrum     # Broad spectrum power drain, power transfer is inoperative
+- grav_flux        # graviton flux around the transfer system
+- EPS_wave         # Increase flow to the EPS wave guides
 
+## Mechanical 
+- silence            # silent running status
+- antiflow_cvtr      # Antiflow converter
+- struct_integ       # Structural integrity is failing 
+- graviton_beam      # Tractor beam’s graviton field
+- colad_flow         # Coladrium flow has been damaged
+- mod_field          # Modulated particle field
+- sensor_sweep_init  # Init sensor sweep
+- pwr_aux            # Transfer auxiliary power 
+- pwr_wave           # Power waveguide failure
+- backup_sys         # Backup systems - the waste reclamation system
+
+## Navigational
+- nav_comp        # Navigational computer 
+
+## Security
+- pwr_grid_loc    # Access the power grid to Security checkpoint 4 on the promenade 
+- sec_seal_ovr    # Override security seals 
+- sec_grid        # Security tracking grid
+
+
+
+```
 Defective isolinear rods
 Subimpulse thruster configurations
-
 Phase coil inverters
-
-Muon charge
-Muon frequencies 
-Muon flux initiated 
-
-
 Subspace transceiver model 
-Station log after stardate 47569.4 are restricted
-Access restricted to level-1 security clearance 
-Please enter security verification
-Polar magnetic field
-
-
-Organic residue
-Decoding the encryptions
-```
-
-```
-silent running status
 Transporter sensors 
 open hailing frequency 
-Antiflow converter
-Structural integrity is failing 
-Navigational computer 
-Docking port 5
-Aft isolation plate locked
-External pickups
-Elevated neutrino readings
-Massive energy flux
-Tractor beam’s graviton field
-Coladrium flow has been damaged
-Habitat ring, level 5 section 3. Access restricted to security clearance 7 and above.  [weapons]
-Arva nodes convert space matter into fuel
-Security junction 
-Modulated particle field
-Reading phased power fluctuations
-Reversed the polarity of our shields
-Transporter locks initiated
-Access the power grid to Security checkpoint 4 on the promenade 
-Override security seals 
-Assay Office: individual force fields, locks open only with valid authorization code combined with a verified retinal print {Cardassian MK-12 scanner}, with L-90 enhanced resolution filter
-Broad spectrum power drain, power transfer is inoperative
-Reading a graviton flux around the transfer system
-Focused graviton beam
-Control thrusters to hold position
-Init sensor sweep
-Central core
-Transfer auxiliary power 
-Secure all turbolifts
-Seal off airlocks on levels 4 thru 12
-Security override codes
-Security tracking grid
-Increase flow to the EPS wave guides
-Central power linkage 
-Database unavailable
-Lockout systems 
-Temp control panel level 21, section 10
-Crossover link
-Crossover shunt
-Security codes have changed
-Distribution amplifier is @ 100% efficiency
-Power waveguide failure
-Backup systems - the waste reclamation system
 Authorization access code 4-1-2-1  Dr Bashir
+
+```
+
+```
+Assay Office Security: auth code, verify retinal print, L-90 filter
+Assay Office: individual force fields, locks open only with valid authorization code combined with a verified retinal print {Cardassian MK-12 scanner}, with L-90 enhanced resolution filter
+
+
+
+
+Crossover shunt
+
+A shunt resistor is used to measure electric current, alternating or direct. This is done by measuring the voltage drop across the resistor. 
+device to measure electric current is called an ammeter. Most modern ammeters measure the voltage drop over a precision resistor with a known resistance. The current flow is calculated by using Ohm’s law: $$I = \frac{V}{R} $$
+
+https://eepower.com/resistor-guide/resistor-applications/shunt-resistor/
+
+
+
 Electromagnetic pulse to disrupt neural energy beam patterns, pulse resonate off shields, creating a reflected EM field 
 Manifest padd
 ```
