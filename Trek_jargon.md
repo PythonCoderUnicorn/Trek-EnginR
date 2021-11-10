@@ -30,6 +30,7 @@ collection of Star Trek terms to form the ``functions``
 - grav_flux        # graviton flux around the transfer system
 - EPS_wave         # Increase flow to the EPS wave guides
 - thoron_emission  # Elevated thoron emissions in the plasma field → imagination character become alive 
+- ann_cont_field   # rematerialization (transporter) process. Boost the annular containment field 
 
 ## Mechanical 
 - silence            # silent running status
@@ -75,12 +76,6 @@ Computer analyze subprogram “x”, → requested subprogram is a series of bi-
 ```
 
 
-
-Something is interfering with the rematerialization (transporter) process. Boost the annular containment field 
-All inner deflector shield subsystems show equal intensity 
-Power balance showing equality 
-Manual isolation of anomalous file. File is protected. It’s in the security field subsystem labeled “ANA”.  File protected by series of encryption sequences. Run adaptive system, patch to subsystem ’ANA’
-Computer access subprogram ANA, code 4100RLX.
 Identify commands within file. → commands are sequential overrides of security fields runabout Pad A
 Computer run a level 3 sensor sweep of the Promenade
 Subspace device integrated into the isolinear coprocessor
