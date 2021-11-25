@@ -7,3 +7,7 @@ A future R pkg for Engineering functions for Star Trek TV Show
 
 
 A package for Star Trek Engineering functions, such as ``plasma_manifold``s and ``warpcore`` functions
+
+
+## Plasma Field 
+<img height="400" src="https://user-images.githubusercontent.com/55933131/143468890-0a15cfa4-94a3-41bf-ae58-168444c34075.png">
