@@ -15,3 +15,7 @@ A package for Star Trek Engineering functions, such as ``plasma_manifold``s and 
 
 ## Plasma Flow
 <img height="400" src="https://user-images.githubusercontent.com/55933131/143469500-9349fd6a-f2f7-4dff-bbfa-03b9b7b75839.png">
+
+
+## other sensor readings
+<img height="400" src="https://user-images.githubusercontent.com/55933131/143470469-09ae1b74-cf66-498e-8f9b-f102d8458065.png">
