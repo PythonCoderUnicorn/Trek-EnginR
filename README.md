@@ -19,3 +19,7 @@ A package for Star Trek Engineering functions, such as ``plasma_manifold``s and 
 
 ## other sensor readings
 <img height="400" src="https://user-images.githubusercontent.com/55933131/143470469-09ae1b74-cf66-498e-8f9b-f102d8458065.png">
+
+
+## Energy Flux 
+<img height="400" src="https://user-images.githubusercontent.com/55933131/143507087-089036ef-b90f-4e7d-8056-715e829f0ce7.png">
